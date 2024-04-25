@@ -1,5 +1,5 @@
 
--- Corona Virus Analysis. Dataset Credit goes to Mentorness
+			------------------ Corona Virus Analysis. Dataset Credit goes to Mentorness ------------------
 
 -- Create a Database
 create database corona
@@ -251,4 +251,4 @@ update
 set 
 	Coordinates = geography::Point(Latitude, Longitude, 4326)
 
----------------- THE END ----------------
+							---------------- THE END ----------------
